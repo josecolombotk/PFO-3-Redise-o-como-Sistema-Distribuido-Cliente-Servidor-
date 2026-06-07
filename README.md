@@ -62,13 +62,6 @@ El cliente:
 * Recibe la respuesta generada por el worker.
 * Muestra el resultado en pantalla.
 
-## Tecnologías Utilizadas
-
-* Python 3
-* Socket Programming
-* Threading
-* Queue
-
 ## Ejecución
 
 ### Iniciar el servidor
